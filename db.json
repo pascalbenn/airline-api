@@ -5,7 +5,7 @@
       "name": "British Airways",
       "code": "BA",
       "web": "https://www.britishairways.com/"
-    }
+    },
     {
       "id": 1,
       "name": "American Airlines",
@@ -15,4 +15,5 @@
     
     
     ]
+}
   
