@@ -3,13 +3,13 @@
     {
       "id": 0,
       "name": "British Airways",
-      "code": "BA"
+      "code": "BA",
       "web": "https://www.britishairways.com/"
     }
     {
       "id": 1,
       "name": "American Airlines",
-      "code": "AA"
+      "code": "AA",
       "web": "https://www.americanairlines.com/"
     }
     
